@@ -1,0 +1,21 @@
+.nav {
+    background-color: #5c463f;
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.brand-text.nav-item {
+    font-weight: bold;
+    color: white;
+}
+
+.nav-item {
+    padding: 1.2rem;
+    color: #d6c8c4;
+}
+
+/* @media (min-width: 992px) {} */
+
